@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/img_gallery/static/js/main.6765aa0a.js",
+    "index.html": "/img_gallery/index.html",
+    "main.6765aa0a.js.map": "/img_gallery/static/js/main.6765aa0a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6765aa0a.js"
+  ]
+}
